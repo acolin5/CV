@@ -68,10 +68,10 @@ a:hover {
 }
 
 .video-container {
-    max-width: 560px; /* Adjust as necessary */
+    max-width: 560px; /* Adjust this if necessary */
     margin: 20px auto; /* Centers the video */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for a bit of depth */
-    border-radius: 8px; /* Optional: rounds the corners */
+    border-radius: 8px; /* rounds the corners */
 }
 
 video {
